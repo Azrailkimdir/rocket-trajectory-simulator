@@ -56,9 +56,7 @@ Display the rocket's flight path using graphical plots.
 - Variable Gravity Environments
 - Interactive User Interface
 
-![Rocket%20Trajectory%20Simulatoror%20Python.png](Rocket%20Trajectory%20Simulatoror%20Python.png)
-
-
+![Rocket Trajectory Simulator](RocketTrajectorySimulatorPython.png)
 
 
 ## Project Files
