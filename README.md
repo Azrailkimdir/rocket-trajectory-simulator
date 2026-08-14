@@ -56,7 +56,9 @@ Display the rocket's flight path using graphical plots.
 - Variable Gravity Environments
 - Interactive User Interface
 
-  ![Rocket Trajectory Simulator](Rocket%on.jpg)
+  ![Rocket Trajectory Simulator](Rocket%20Trajectory%20
+  
+  
   
 
 ## Project Files
