@@ -67,8 +67,8 @@ Display the rocket's flight path using graphical plots.
 
 - [Python Source Code](rocket_trajectory_simulator.py)
 - Project Visual
-- Engineering Notebook [Engineering Notebook](Rocket_Trajectory_Simulator_Engineering_Notebook_Summary.pdf)
-- Project Report [Project Report ](Rocket_Trajectory_Simulator_Project_Report.pdf)
+- [Engineering Notebook](Rocket_Trajectory_Simulator_Engineering_Notebook_Summary.pdf)
+- [Project Report ](Rocket_Trajectory_Simulator_Project_Report.pdf)
 
 ## Author
 
