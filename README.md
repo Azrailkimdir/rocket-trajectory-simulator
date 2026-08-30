@@ -1,7 +1,3 @@
-## Project Status
-
-🚧 In Development
-
 # Rocket Trajectory Simulator 
 
 A Python-based engineering project that simulates the trajectory of a rocket using fundamental physics and projectile motion equations.
@@ -73,5 +69,6 @@ Display the rocket's flight path using graphical plots.
 ## Author
 
 Sarp AKAR
+Aug 2026
 
 
