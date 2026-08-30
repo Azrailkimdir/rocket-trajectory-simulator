@@ -58,6 +58,8 @@ Display the rocket's flight path using graphical plots.
 
 ![Rocket Trajectory Simulator](RocketTrajectorySimulatorPython.png.png)
 
+Note:
+This visualization was created as an infographic to illustrate the concepts used in the simulator. The Python source code and project report contain the exact calculations used in the project.
 
 ## Project Files
 
